@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "en": "Hoe oud ben jij?",
+      "nl": "Hoe oud ben jij?"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "visibility": "public"
+}
