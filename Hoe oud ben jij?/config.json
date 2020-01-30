@@ -1,6 +1,6 @@
 {
   "programming_language": "python",
-  "access": "public", # of private
+  "access": "public", 
   "description": {
     "names": {
     
@@ -11,6 +11,5 @@
     "pythia_judge": "output"
   },
 
-"labels": [] #helpen om te zoeken op
-}
+"labels": [] 
 
