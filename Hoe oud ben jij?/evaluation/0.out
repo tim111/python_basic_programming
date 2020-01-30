@@ -1,8 +1,8 @@
 Alice is 13 jaar oud.
 -----------------------------------------
 python input without prompt: true
-block count: multi
+block count: single
 input block size: 2
 output block size: 1
-blockwise execution: true
-continue upon wrong answer: false
+
+
