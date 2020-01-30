@@ -1,12 +1,16 @@
 {
+  "programming_language": "python",
+  "access": "public", # of private
   "description": {
     "names": {
-      "en": "Hoe oud ben jij?",
+    
       "nl": "Hoe oud ben jij?"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
-  "visibility": "public"
+
+"labels": [] #helpen om te zoeken op
 }
+
