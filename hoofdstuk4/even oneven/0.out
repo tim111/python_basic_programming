@@ -1,7 +1,7 @@
 Het getal 5 is oneven
-Het getal is even.
-Het getal is oneven.
-Het getal is even.
+Het getal 12 is even.
+Het getal 125 is oneven.
+Het getal 150 is even.
 -----------------------------------------
 python input without prompt: true
 block count: multi
