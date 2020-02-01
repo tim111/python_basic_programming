@@ -1,0 +1,9 @@
+Het getal 5 is oneven
+Het getal 12 is even.
+Het getal 25 is oneven.
+Het getal 150 is even.
+-----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
