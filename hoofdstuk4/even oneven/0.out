@@ -5,5 +5,5 @@ Het getal 150 is even.
 -----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 2
-output block size: 1
+input block size: 4
+output block size: 4
