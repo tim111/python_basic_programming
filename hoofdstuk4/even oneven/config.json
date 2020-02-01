@@ -1,9 +1,9 @@
 {
   "programming_language": "python",
-  "access": "public",
+  "access": "private",
   "description": {
     "names": {
-      "nl": "Woordspelletje"
+      "nl": "Even oneven"
     }
   },
   "evaluation": {
