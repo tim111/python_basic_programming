@@ -1,3 +1,11 @@
+Maak jouw keuze.
+1.optellen
+2.aftrekken
+3.vermenigvuldigen
+4.delen
+Geef jouw keuze op(1/2/3/4):1
+Geef het eerste getal: 3
+Gef het tweede getal: 5
 8
 -----------------------------------------
 python input without prompt: true
