@@ -22,6 +22,12 @@ Maak jouw keuze.
 3.vermenigvuldigen
 4.delen
 Je kan niet delen door 0
+Maak jouw keuze.
+1.optellen
+2.aftrekken
+3.vermenigvuldigen
+4.delen
+verkeerde ingave van keuze
 -----------------------------------------
 python input without prompt: true
 block count: multi
