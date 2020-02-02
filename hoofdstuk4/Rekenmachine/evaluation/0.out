@@ -48,3 +48,6 @@ python input without prompt: true
 block count: multi
 input block size: 3
 output block size: 9
+merge: true
+show line numbers: true
+
