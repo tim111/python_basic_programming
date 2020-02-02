@@ -47,4 +47,4 @@ verkeerde ingave van keuze
 python input without prompt: true
 block count: multi
 input block size: 3
-output block size: 6
+output block size: 9
