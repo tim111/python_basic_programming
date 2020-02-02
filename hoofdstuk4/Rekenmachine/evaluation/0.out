@@ -11,4 +11,4 @@ Geef het tweede getal: 5
 python input without prompt: true
 block count: multi
 input block size: 3
-output block size: 1
+output block size: 9
