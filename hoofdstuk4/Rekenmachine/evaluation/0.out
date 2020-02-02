@@ -3,12 +3,9 @@ Maak jouw keuze.
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-Geef jouw keuze op(1/2/3/4):1
-Geef het eerste getal: 3
-Geef het tweede getal: 5
 8
 -----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 3
-output block size: 9
+output block size: 6
