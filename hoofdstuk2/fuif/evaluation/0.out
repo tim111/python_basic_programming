@@ -1,6 +1,7 @@
 Jouw saldo is 70.0
 -----------------------------------------
 python input without prompt: true
+ignore fp rounding: -6
 block count: multi
 input block size: 4
 output block size: 1
