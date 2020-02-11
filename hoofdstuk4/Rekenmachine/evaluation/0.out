@@ -1,18 +1,18 @@
-
-
-
-
-
-1
-3
-5
+Maak jouw keuze.
+1.optellen
+2.aftrekken
+3.vermenigvuldigen
+4.delen
+Geef jouw keuze op(1/2/3/4):1
+Geef het eerste getal: 3
+Geef het tweede getal: 5
 8
 Maak jouw keuze.
 1.optellen
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-2
+Geef jouw keuze op(1/2/3/4):2
 500
 200
 300
@@ -21,7 +21,7 @@ Maak jouw keuze.
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-3
+Geef jouw keuze op(1/2/3/4):3
 15
 25
 375
@@ -30,7 +30,7 @@ Maak jouw keuze.
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-4
+Geef jouw keuze op(1/2/3/4):4
 4
 10
 Je kan niet delen door 0
