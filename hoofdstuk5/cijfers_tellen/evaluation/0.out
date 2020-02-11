@@ -1,1 +1,6 @@
-
+4
+-----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 4
+output block size: 1
