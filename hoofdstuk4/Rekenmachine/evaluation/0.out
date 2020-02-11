@@ -31,9 +31,15 @@ Maak jouw keuze.
 3.vermenigvuldigen
 4.delen
 Geef jouw keuze op(1/2/3/4):4
-Geef het eerste getal: 4
-Geef het tweede getal: 10
-5
+Geef het eerste getal: 10
+Geef het tweede getal: 0
+Je kan niet delen door 0.
+Maak jouw keuze.
+1.optellen
+2.aftrekken
+3.vermenigvuldigen
+4.delen
+Geef jouw keuze op(1/2/3/4):15
 3
 5
 verkeerde ingave van keuze
