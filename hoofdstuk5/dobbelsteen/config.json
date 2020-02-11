@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Dobbelsteen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "rm9eImwkCX6LWbHc6nvyZR0yQUxBebDmLPdI3f9zX0lS7BxQGSuS948o6ZFPt+Be",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
