@@ -3,51 +3,36 @@ Maak jouw keuze.
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-Geef jouw keuze op(1/2/3/4):1
-Geef het eerste getal: 3
-Geef het tweede getal: 5
 8
 Maak jouw keuze.
 1.optellen
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-Geef jouw keuze op(1/2/3/4):2
-Geef het eerste getal: 500
-Geef het tweede getal: 200
 300
 Maak jouw keuze.
 1.optellen
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-Geef jouw keuze op(1/2/3/4):3
-Geef het eerste getal: 15
-Geef het tweede getal: 25
 375
 Maak jouw keuze.
 1.optellen
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-Geef jouw keuze op(1/2/3/4):4
-Geef het eerste getal: 10
-Geef het tweede getal: 0
 Je kan niet delen door 0.
 Maak jouw keuze.
 1.optellen
 2.aftrekken
 3.vermenigvuldigen
 4.delen
-Geef jouw keuze op(1/2/3/4):15
-3
-5
 verkeerde ingave van keuze
 -----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 3
-output block size: 9
+output block size: 6
 merge: true
 show line numbers: true
 
