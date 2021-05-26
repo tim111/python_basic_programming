@@ -5,4 +5,4 @@ Programma stopt.
 python input without prompt: true
 block count: multi
 input block size: 1
-output block size: 2 or 1
+output block size: 2
