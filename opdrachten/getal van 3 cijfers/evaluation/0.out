@@ -2,6 +2,6 @@ Het getal 113 bestaat uit 3 cijfers.
 Het getal 100025 bestaat niet uit 3 cijfers.
 -----------------------------------------
 python input without prompt: true
-block count: single
+block count: multi
 input block size: 1
 output block size: 1
