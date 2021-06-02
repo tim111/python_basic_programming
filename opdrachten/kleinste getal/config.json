@@ -3,7 +3,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Getal"
+      "nl": "Kleinste getal weergeven"
     }
   },
   "evaluation": {
