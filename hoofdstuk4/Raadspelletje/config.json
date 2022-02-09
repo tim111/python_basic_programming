@@ -1,6 +1,6 @@
 {
   "programming_language": "python",
-  "access": "public",
+  "access": "private",
   "description": {
     "names": {
       "nl": "Raadspelletje"
