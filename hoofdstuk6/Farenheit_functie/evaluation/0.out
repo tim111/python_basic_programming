@@ -2,3 +2,4 @@
 tab name: functie Farenheit/Celcius
 continue upon wrong answer: false
 continue upon failure: false
+used output channel: stdout
