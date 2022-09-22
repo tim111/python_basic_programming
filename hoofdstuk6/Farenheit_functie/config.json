@@ -3,11 +3,11 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Farenheit/Celcius"
+      "nl": "functie_Farenheit/Celcius"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "pythia_judge": "judge"
   },
   "labels": [
 
