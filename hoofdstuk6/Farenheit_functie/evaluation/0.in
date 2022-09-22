@@ -1,4 +1,4 @@
->>> celcius_naar_fahrenheit(20):
+>>> celcius_naar_fahrenheit(20)
 De temperatuur in Fahrenheit is: 68.00
->>> fahrenheit_naar_celcius(105):
+>>> fahrenheit_naar_celcius(105)
 De temperatuur in Celcius is: 40.56
