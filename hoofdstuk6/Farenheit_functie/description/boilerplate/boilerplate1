@@ -1,0 +1,4 @@
+#test met uitleg
+def f_naar_c(fahrenheit: float) -> None:
+    ...
+    print()
