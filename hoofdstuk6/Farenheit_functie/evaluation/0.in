@@ -1,3 +1,4 @@
->>> def CelciusNaarFahrenheit(celcius):
-    68.00
-
+>>> CelciusNaarFahrenheit(20):
+De temperatuur in Fahrenheit is: 68.00
+>>> FahrenheitNaarCelcius(105):
+De temperatuur in Celcius is: 40.56
