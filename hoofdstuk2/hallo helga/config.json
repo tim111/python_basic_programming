@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Hallo Helga"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "DOT8HHb7XXy+U6bYPTXuISiDKyljDB8+tKoMlB6702rvPGO4artACMSWWIMGxW/m",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
