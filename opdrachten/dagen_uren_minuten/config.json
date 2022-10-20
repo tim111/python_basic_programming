@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "dagen - uren - minuten"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "FaTtIb8Hz6xzmRU-v9KCiI-jH8g96pDKUa9BeGMa9fqFyPjA5xddsYJmx-JsxpRM",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
