@@ -1,6 +1,9 @@
-56335 seconden is 15 uren, 38 minuten, en 55 seconden
+dagen: 14.0
+uren: 6.O
+minuten: 56.0
+seconden: 7.0
 -----------------------------------------
 python input without prompt: true
 block count: single
 input block size: 1
-output block size: 1
+output block size: 4
