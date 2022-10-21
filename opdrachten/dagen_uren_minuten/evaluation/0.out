@@ -4,6 +4,6 @@ minuten: 56.0
 seconden: 7.0
 -----------------------------------------
 python input without prompt: true
-block count: single
+block count: multi
 input block size: 1
 output block size: 4
