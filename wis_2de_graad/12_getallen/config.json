@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "12 getallen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "Ut39Ya3YB6RETbsqn-4sJVauevc6vVVzzQpjvXmGHbJi6JQXn_IEXsmiktkFUtm7",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
