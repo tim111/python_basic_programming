@@ -27,4 +27,4 @@
 python input without prompt: true
 block count: multi
 input block size: 0
-output block size: 25
+output block size: 24
