@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "verdubbel alle klinkers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "QejNVAVppRYxXmNMxfyS3Yixa3RQYI3wsJYxGHV3VHCjV96vmpvxYAyM4_2uvB84",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
