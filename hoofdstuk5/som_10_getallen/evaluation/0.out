@@ -4,4 +4,4 @@ De som van de 10 getallen is 96836.0
 python input without prompt: true
 block count: multi
 input block size: 10
-output block size: 2
+output block size: 1
