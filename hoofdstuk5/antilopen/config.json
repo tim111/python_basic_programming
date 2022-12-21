@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "antilopen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "cCk7BzLTJpg6WxJdOs9YY7ItF4tWls4kLOYIFE1fVya91/pVreL67rkbEn4ulmOS",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
