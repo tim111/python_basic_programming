@@ -1,8 +1,9 @@
-WWBZBB Britse variant: 3
+WWBZBB
+Britse variant: 3
 Wuhan variant: 2
 Zuid Afrikaanse variant: 1
 -----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 7
-output block size: 3
+output block size: 4
