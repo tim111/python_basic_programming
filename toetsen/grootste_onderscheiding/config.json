@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "grootste_onderscheiding_toets"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "K-YDbqHGxH_WkD88JIvSvHNjXrrHTwjQHKg-pm6K2ZXCWK5FBpiFQbrIKd5YUBGu",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
