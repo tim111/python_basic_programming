@@ -1,0 +1,17 @@
+1 is deler van 6
+2 is deler van 6
+3 is deler van 6
+6 is een perfect getal
+1 is deler van 128
+2 is deler van 128
+4 is deler van 128
+8 is deler van 128
+16 is deler van 128
+32 is deler van 128
+64 is deler van 128
+128 is geen perfect getal.
+-----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 4
+output block size: 1
