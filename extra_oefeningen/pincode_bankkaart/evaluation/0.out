@@ -4,6 +4,6 @@ PIN - code incorrect ! Aantal resterende pogingen : 0 Bankkaart geblokkeerd !
 PIN - code correct ! Uw saldo is 1223.5 Euro .
 -----------------------------------------
 python input without prompt: true
-block count: multi
+block count: single
 input block size: 1
 output block size: 1
