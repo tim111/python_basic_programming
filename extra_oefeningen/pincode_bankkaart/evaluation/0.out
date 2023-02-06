@@ -1,7 +1,7 @@
-PIN - code incorrect ! Aantal resterende pogingen : 2
-PIN - code incorrect ! Aantal resterende pogingen : 1
-PIN - code incorrect ! Aantal resterende pogingen : 0 Bankkaart geblokkeerd !
-PIN - code correct ! Uw saldo is 1223.5 Euro .
+PIN - code incorrect! Aantal resterende pogingen 2
+PIN - code incorrect! Aantal resterende pogingen 1
+Bankkaart geblokkeerd!
+PIN - code correct! Uw saldo is 1223.5 Euro .
 -----------------------------------------
 python input without prompt: true
 block count: single
