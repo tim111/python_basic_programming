@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "100 jaar oud"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "V_hr6hyVQaAVD8PMJ2cqRe9G2Phh-YzbKpQkFQ833K4R8eWqiMhc-uvcVqkYIbnw",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
