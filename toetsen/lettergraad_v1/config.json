@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "private",
+  "description": {
+    "names": {
+      "nl": "lettergraad"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "StW4PRq4rCDWfvvTK7vkpzV-Ie2GWnPzBHtmjdKJPmuv3CxgXABtM_HCZjpgq-Pu",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
