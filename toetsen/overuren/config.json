@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "overuren"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "QMB3nv8hrCgGTurNAJG-seXBbb-jVj5jDwePX4XjdgVpYTzX7nFkR2d7Cb4jr-ID",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
