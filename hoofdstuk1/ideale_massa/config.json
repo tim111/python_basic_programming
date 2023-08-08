@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "voorbeeld ideale massa"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "BYcvdHdqZ_hzceevaGJGX4Q5qzbx4rGPeiNeND6sFNT2sQJHXYx5gS7saWiYvg3T",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
