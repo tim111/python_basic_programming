@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "cupcakes met korting (toets)"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "GJybMijrtjz2S_SIG7xStjxYfUcduFbxdyE-fuIizPqvFffbChUQn_ZRgfGSFZMC",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
