@@ -1,9 +1,12 @@
 Incorrecte gebruikersnaam en wachtwoord.
+Voer uw gebruikersnaam opnieuw in:
 Incorrect wachtwoord.
+Voer uw gebruikersnaam opnieuw in:
 Toegang verleend!
 Gebruikersnaam niet gekend.
+Voer uw gebruikersnaam opnieuw in:
 -----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 2
-output block size: 1
+output block size: 2
