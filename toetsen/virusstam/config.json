@@ -1,6 +1,6 @@
 {
   "programming_language": "python",
-  "access": "private",
+  "access": "public",
   "description": {
     "names": {
       "nl": "virusstam_toets"
