@@ -1,6 +1,3 @@
-Voer het bedrag van de lening in euro's in: 15000
-Voer de vaste rentevoet in percentage in: 3.75
-Voer de looptijd van de lening in jaren in: 5
 Lening details:
 Hoofdsom: 15000.00 euro
 Rentevoet: 3.75% per jaar
@@ -11,4 +8,4 @@ Totaal betaalde rente: 2812.50 euro
 python input without prompt: true
 block count: multi
 input block size: 3
-output block size: 2
+output block size: 6
