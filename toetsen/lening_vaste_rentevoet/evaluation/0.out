@@ -1,9 +1,12 @@
-De totaalprijs van de cupcakes na toepassing van de korting bedraagt 6.0 euro.
-De totaalprijs van de cupcakes na toepassing van de korting bedraagt 130.5 euro.
-De totaalprijs van de cupcakes na toepassing van de korting bedraagt 10.8 euro.
-De totaalprijs van de cupcakes na toepassing van de korting bedraagt 76.5 euro.
+Lening details:
+Hoofdsom: 15000.00 euro
+Rentevoet: 3.75% per jaar
+Looptijd: 5 jaar
+-----------------------------
+Totaal terug te betalen: 17812.50 euro
+Totaal betaalde rente: 2812.50 euro
 -----------------------------------------
 python input without prompt: false
 block count: multi
-input block size: 1
-output block size: 1
+input block size: 3
+output block size: 2
