@@ -1,0 +1,19 @@
+{
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "May the force be with you"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "4cNXmFWkd6infbGNnUbZKF97W4a8VamGsuRmHQXyrbA7exefwd4FcqJV6S-vgZZK",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
