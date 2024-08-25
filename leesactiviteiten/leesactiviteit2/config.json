@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "verdieping iteratie"
+    }
+  },
+  "access": "private",
+  "type": "content"
+},
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "TrqEgf6yZj_6QZmsDNh5fcV7ifCtBsm3seG2j45mQv_9gXB_ZXJUDnNMQIbv3c8u",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
