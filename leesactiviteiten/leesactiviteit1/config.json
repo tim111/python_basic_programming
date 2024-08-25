@@ -5,13 +5,12 @@
     }
   },
   "access": "private",
-  "type": "content"
-},
+  "type": "content",
+  "internals": {
+    "token": "G6-9maKhDRiBz8NMapNNg2uk9mjkneRx_9gpSny6MxpqgBNFh_GB7GzxCysDecTT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
   "labels": [
 
-  ],
-  "internals": {
-    "token": "TrqEgf6yZj_6QZmsDNh5fcV7ifCtBsm3seG2j45mQv_9gXB_ZXJUDnNMQIbv3c8u",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  ]
 }
