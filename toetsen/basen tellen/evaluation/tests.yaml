@@ -3,5 +3,6 @@
   - testcases:
     - stdin: "AAAXTCGAATCGGGT"
       stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
+  - testcases:
     - stdin: "AAAXTCGAATCGGGT"
       stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
