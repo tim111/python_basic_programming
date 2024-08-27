@@ -1,7 +1,5 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "AAAXTCGAATCGGGT\n"
-    - stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
-    - stdin: "AAAXTCGAATCGGGT\n"
-    - stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
+    - stdin: "AAAXTCGAATCGGGT"
+      stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
