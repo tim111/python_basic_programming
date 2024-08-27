@@ -1,8 +1,8 @@
 - tab: Feedback
   contexts:
   - testcases:
-    - stdin: "AAAXTCGAATCGGGT"
-      stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
+    - stdin: "ACGTGTACAGFCTAAAGTCCAGTCCGAATA"
+      stdout: "F is niet toegelaten!\nAantal A: 10\nAantal C: 7\nAantal G: 6\nAantal T: 6\nProgramme stopt.\n"
   - testcases:
     - stdin: "AAAXTCGAATCGGGT"
       stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt.\n"
