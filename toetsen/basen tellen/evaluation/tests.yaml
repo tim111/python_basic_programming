@@ -1,0 +1,6 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdin: "Geef DNA-sequentie(enkel A, C, G of T gebruiken:\nAAAXTCGAATCGGGT"
+      stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3Programme stopt"
+  
