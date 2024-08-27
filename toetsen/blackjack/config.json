@@ -12,14 +12,11 @@
     "test_suite": "tests.json"
   },
   "labels": [
-    
     "Random-functie",
     "lussen"
-    
   ],
-  
   "internals": {
-    "token": "u8zjax1yyiVqjba0jFbfv+/CMHI6vL6b7pGrLFafnikT4xYTYAIJAxOmNA8xEUYr",
+    "token": "PQUjmUnRREK3JWsAmaCedK7gRuRIZ6T8wvNg3Yzvq9ZrEaVXu_v96Bg6URZ89yvf",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
