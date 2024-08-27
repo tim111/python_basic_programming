@@ -12,13 +12,11 @@
     "test_suite": "tests.yaml"
   },
   "labels": [
-    
     "Selectie",
     "If-functie"
-    
   ],
   "internals": {
-    "token": "u8zjax1yyiVqjba0jFbfv+/CMHI6vL6b7pGrLFafnikT4xYTYAIJAxOmNA8xEUYr",
+    "token": "CkG_MkjRE28r6tuZDdRj2YvQHp9U2YJAjqTWdgsMKU39ea72iXcBarFPqCDiFWth",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
