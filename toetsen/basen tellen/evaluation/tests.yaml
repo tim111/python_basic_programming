@@ -2,4 +2,6 @@
   contexts:
   - testcases:
     - stdin: "AAAXTCGAATCGGGT"
-      stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt"
+      stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt."
+    - stdin: "AAAXTCGAATCGGGT"
+      stdout: "X is niet toegelaten!\nAantal A: 5\nAantal C: 2\nAantal G: 4\nAantal T: 3\nProgramme stopt."
