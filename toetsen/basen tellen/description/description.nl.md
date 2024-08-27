@@ -1,6 +1,7 @@
 ## Gegeven
 Een baas is een substantie die eigenschappen heeft tegengesteld aan een zuur. **DNA-sequencing** is het proces waarbij de volgorde (sequentie) van nucleotiden in het DNA wordt vastgesteld. DNA-sequencing omvat alle methoden en technieken die onderzoekers gebruiken om de volgorde van de vier basen te bepalen: adenine, guanine, cytosine en thymine. De opkomst van snelle sequencing-methoden sinds de jaren 2000 vormde de basis voor vele belangrijke biologische en medische ontwikkelingen.
-![dna_sequencer](media/dna_sequencer.jpg "Een hedendaagse dna-sequencer!"){:data-caption="Zo ziet een DNA-sequencer er uit!" width="300px"}
+![dna_sequencer!](media/dna_sequencer.jpg "Een hedendaagse dna-sequencer!"){:data-caption="Zo ziet een DNA-sequencer er uit!" width="300px"}
+
 ## Gevraagd
 * Schrijf een programma dat vraagt naar een DNA	 sequentie (dus enkel de met de base: A,C,G of T) en de frequentie/aantal weergeeft voor elke base.
 * Indien een letter in de DNA-sequentie niet A, C, G of T is, moet je een melding teruggeven.
