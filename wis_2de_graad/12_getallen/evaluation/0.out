@@ -1,0 +1,11 @@
+10 getallen lagen in het interval [0,20]
+De som van deze getallen is 78.0
+Het gemiddelde van deze getallen is 6.5
+4 getallen lagen in het interval [0,20]
+De som van deze getallen is 50.0
+Het gemiddelde van deze getallen is 12.5
+-----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 14
+output block size: 3
