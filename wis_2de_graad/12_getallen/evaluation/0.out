@@ -7,5 +7,5 @@ Het gemiddelde van deze getallen is 12.5
 -----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 14
+input block size: 12
 output block size: 3
