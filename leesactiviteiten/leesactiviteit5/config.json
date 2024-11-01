@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "herhaling 6DA"
+    }
+  },
+  "access": "private",
+  "type": "content",
+  "internals": {
+    "token": "YiCS_AgnZgxzfIDnjC37jtG4z4KHRSCgAmvvktD5kEVTi8UMqh8yJXndEAJ_4KYc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
