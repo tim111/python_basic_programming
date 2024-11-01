@@ -8,3 +8,4 @@ Start met de verdieping! Het labo dat je kan terugvingen  op [smartschool](https
 
 Succes!
 
+<img src="https://dodona.ugent.be/nl/repositories/42/public/herhaling.png/">
