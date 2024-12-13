@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "verdieping selectie"
+    }
+  },
+  "access": "private",
+  "type": "content",
+  "internals": {
+    "token": "juq7GMmhWYvPMqavpbbAgc6zjTZiAt8jTzVQG-2jpF9rsUE_qi8VkcTcXQ5Xsi4E",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
