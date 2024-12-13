@@ -6,3 +6,5 @@ Start met de verdieping! Het labo dat je kan terugvingen  op [smartschool](https
 <ul><li>mijn vak > documenten > python bouwstenen > labo > verdieping_interatie.pdf</li></ul>
 
 Succes!
+
+<img src="https://dodona.ugent.be/nl/repositories/42/public/loops.jpg/">
