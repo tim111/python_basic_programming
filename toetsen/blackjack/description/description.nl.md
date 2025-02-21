@@ -15,7 +15,7 @@ Als de som:
 * gelijk is aan 21 dan wint de gebruiker € 10;
 * groter is dan 21 of te vroeg gestopt dan verliest de gebruiker!
 
-#### Voorbeeld
+#### Voorbeeld1
 Stel bijvoorbeeld dat de gebruiker de willekeurige kaarten `5` en `6` kreeg.
 
 ```
@@ -37,5 +37,48 @@ Wil je nog een kaart? ja
 De nieuwe kaart is: 10
 De som bedraagt nu: 24
 Je verliest!
+```#### Voorbeeld1
+Stel bijvoorbeeld dat de gebruiker de willekeurige kaarten `5` en `6` kreeg.
+
+```
+Je kreeg kaarten 5 en 6
 ```
 
+Op de vraag of de gebruiker nog een kaart wilt, antwoord deze `ja`. Vervolgens verschijnt er:
+
+```
+Wil je nog een kaart? ja
+De nieuwe kaart is: 3
+De som bedraagt nu: 14
+```
+
+De gebruik antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
+
+```
+Wil je nog een kaart? ja
+De nieuwe kaart is: 10
+De som bedraagt nu: 24
+Je verliest!
+
+#### Voorbeeld2
+Stel bijvoorbeeld dat de gebruiker de willekeurige kaarten `5` en `6` kreeg.
+
+```
+Je kreeg kaarten 6 en 6
+```
+
+Op de vraag of de gebruiker nog een kaart wilt, antwoord deze `ja`. Vervolgens verschijnt er:
+
+```
+Wil je nog een kaart? ja
+De nieuwe kaart is: 6
+De som bedraagt nu: 18
+```
+
+De gebruik antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
+
+```
+Wil je nog een kaart? ja
+De nieuwe kaart is: 3
+De som bedraagt nu: 21
+Je wint 10 euro!
