@@ -61,3 +61,4 @@ Wil je nog een kaart? ja
 De nieuwe kaart is: 3
 De som bedraagt nu: 21
 Je wint 10 euro!
+```
