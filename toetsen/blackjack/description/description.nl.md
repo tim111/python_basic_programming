@@ -25,6 +25,7 @@ Je kreeg kaarten 5 en 6
 Op de vraag of de gebruiker nog een kaart wilt, antwoord deze `ja`. Vervolgens verschijnt er:
 
 ```
+Wil je nog een kaart? ja
 De nieuwe kaart is: 3
 De som bedraagt nu: 14
 ```
@@ -32,6 +33,7 @@ De som bedraagt nu: 14
 De gebruik antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
 
 ```
+Wil je nog een kaart? ja
 De nieuwe kaart is: 10
 De som bedraagt nu: 24
 Je verliest!
