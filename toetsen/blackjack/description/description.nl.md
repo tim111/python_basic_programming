@@ -30,7 +30,7 @@ De nieuwe kaart is: 3
 De som bedraagt nu: 14
 ```
 
-De gebruik antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
+De gebruiker antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
 
 ```
 Wil je nog een kaart? ja
@@ -55,7 +55,7 @@ De nieuwe kaart is: 6
 De som bedraagt nu: 18
 ```
 
-De gebruik antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
+De gebruiker antwoordt opnieuw `ja` op een nieuw kaart, er verschijnt:
 ```
 Wil je nog een kaart? ja
 De nieuwe kaart is: 3
