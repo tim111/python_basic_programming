@@ -18,4 +18,4 @@ Zuid Afrikaanse variant: 0
 python input without prompt: true
 block count: multi
 input block size: 7
-output block size: 4
+output block size: 10
