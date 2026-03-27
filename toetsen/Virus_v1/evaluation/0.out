@@ -10,6 +10,10 @@ B
 Britse variant: 1
 Wuhan variant: 0
 Zuid Afrikaanse variant: 0
+BZW
+Britse variant: 1
+Wuhan variant: 1
+Zuid Afrikaanse variant: 1
 -----------------------------------------
 python input without prompt: true
 block count: multi
