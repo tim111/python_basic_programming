@@ -1,5 +1,6 @@
 # Herhaling
 
+<img src="https://dodona.ugent.be/nl/repositories/42/public/herhaling.png/">
 <ul>
 <li>
 Heb je de leerstof van het vierde jaar gemist?<br> Doorloop dan de volgende tutorialreeks om de basisleerstof onder de knie te krijgen. 
