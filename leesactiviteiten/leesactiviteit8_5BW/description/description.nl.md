@@ -1,4 +1,4 @@
-# Herhaling
+# Herhaling 4de jaar
 
 <img src="https://dodona.ugent.be/nl/repositories/42/public/herhaling.png/">
 <ul>
