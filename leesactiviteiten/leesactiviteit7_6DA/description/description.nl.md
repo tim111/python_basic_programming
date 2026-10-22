@@ -1,11 +1,14 @@
-# Herhaling
-<img src="https://dodona.ugent.be/nl/repositories/42/public/herhaling.png/">
+# Herhaling 
+<br>
 
-Ben je klaar met deze herhalingsoefeningen? <br>
-Je vindt nog een aantal extra oefeningen op smartschool! Het labo kan je terugvingen  op Smartschool:
+Ben je klaar met alle herhalingsoefeningen op Dodona? <br>
+Start met de verdieping! Het labo dat je kan terugvingen op Smartschool:
 <ul><li>mijn vak > documenten > python bouwstenen > herhaling > herhalingsoefeningen.pdf</li></ul>
 
 Succes!
+
+<img src="https://dodona.ugent.be/nl/repositories/42/public/herhaling.png/">
+
 
 
 
