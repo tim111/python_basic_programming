@@ -1,0 +1,24 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Kudde antilopen (toets)"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "tests.yaml"
+  },
+  "labels": [
+    "toets",
+    "met dank aan Robbe Wulgaert",
+    "met dank aan Dieter Vanderfaeillie"
+  ],
+  "internals": {
+    "token": "duHSSsqMATBmamcp9XsnckbY9Xbfpp-U4jKBh8Kh_aK58ns-QCe6yWWVugybG6gp",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
+
